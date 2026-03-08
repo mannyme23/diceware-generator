@@ -2,7 +2,7 @@
 
 A clean, offline passphrase generator based on the [EFF Diceware](https://www.eff.org/dice) method. Roll five dice, look up a word, repeat six times — the result is a passphrase with roughly **77 bits of entropy** that's both strong and memorable.
 
-**[Try it live →](https://mannyme23.github.io/diceware-generator/)**
+**[Try it live →] https://mannyme23.github.io/diceware-generator/**
 
 ![Screenshot of the Diceware Passphrase Generator](screenshot.png)
 
