@@ -2,7 +2,7 @@
 
 A clean, offline passphrase generator based on the [EFF Diceware](https://www.eff.org/dice) method. Roll five dice, look up a word, repeat six times — the result is a passphrase with roughly **77 bits of entropy** that's both strong and memorable.
 
-**[Try it live →] https://mannyme23.github.io/diceware-generator/**
+**Try it live → https://mannyme23.github.io/diceware-generator/**
 
 ![Screenshot of the Diceware Passphrase Generator](screenshot.png)
 
@@ -58,7 +58,7 @@ Just click the link at the top of this page. Nothing to install.
 - **Randomness:** Uses `Math.random()` for simulation, which is suitable for generating passphrases to memorise. For the highest possible security, EFF recommends using real physical dice.
 - **No data leaves your device:** The wordlist is embedded in the HTML. Nothing is sent to any server.
 - **No storage:** The app does not use cookies, localStorage, or any form of persistent storage.
-- **Open source:** You can read every line of code in `diceware.html`.
+- **Open source:** You can read every line of code in `index.html`.
 
 ---
 
