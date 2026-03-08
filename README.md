@@ -36,7 +36,7 @@ A six-word passphrase from this 7,776-word list has **2⁷⁷** possible combina
 Just click the link at the top of this page. Nothing to install.
 
 ### Option 2 — Run locally
-1. Download `diceware.html`
+1. Download `index.html`
 2. Double-click it to open in any browser
 3. No internet connection needed after downloading
 
